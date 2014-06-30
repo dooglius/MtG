@@ -1,0 +1,195 @@
+[metadata]
+Name=Experiment Kraj
+[Commander]
+1 Experiment Kraj|DIS
+[Main]
+1 Argothian Elder|USG
+1 Asceticism|SOM
+1 Birds of Paradise|M12
+1 Carpet of Flowers|USG
+1 Command Tower|COM
+1 Counterspell|DD2
+1 Cultivate|PC2
+1 Cytoplast Manipulator|DIS
+1 Cytospawn Shambler|DIS
+1 Darksteel Ingot|COM
+1 Defense of the Heart|ULG
+1 Devoted Druid|SHM
+1 Doubling Season|MMA
+1 Evolution Vat|DIS
+1 Evolving Wilds|DKA
+1 Experiment One|GTC
+1 Eye of Ramos|MMQ
+1 Forest|10E|4
+13 Forest|ZEN|1
+1 Forgotten Ancient|HOP
+1 Freed from the Real|SOK
+1 Gaea's Touch|DRK
+1 Gilder Bairn|EVE
+1 Gyre Sage|GTC
+1 Halimar Depths|WWK
+1 Heroes' Bane|JOU
+1 Hinder|CHK
+1 Hinterland Harbor|ISD
+1 Horseshoe Crab|10E
+12 Island|ZEN|3
+2 Island|ZEN|4
+1 Island|ZEN|7
+1 Jodah's Avenger|PLC
+1 Kalonian Hydra|M14
+1 Kiora's Follower|BNG
+1 Knacksaw Clique|SHM
+1 Krosan Grip|MMA
+1 Krosan Restorer|TOR
+1 Leech Bonder|SHM
+1 Lightning Greaves|DDE
+1 Llanowar Reborn|DDL
+1 Mana Reflection|SHM
+1 Momir Vig, Simic Visionary|DIS
+1 Morphling|USG
+1 Murkfiend Liege|EVE
+1 Novijen, Heart of Progress|DIS
+1 Oran-Rief, the Vastwood|ZEN
+1 Pemmin's Aura|SCG
+1 Pili-Pala|SHM
+1 Plaxcaster Frogling|DIS
+1 Primordial Hydra|M13
+1 Prophet of Kruphix|THS
+1 Rampant Growth|HOP
+1 Sage of Hours|JOU
+1 Sakura-Tribe Elder|ARC
+1 Seedborn Muse|9ED
+1 Simic Growth Chamber|COM
+1 Simic Guildgate|DGM
+1 Simic Manipulator|GTC
+1 Simic Ragworm|DIS
+1 Simic Signet|COM
+1 Sol Ring|COM
+1 Solarion|5DN
+1 Solemn Simulacrum|M12
+1 Spell Crumple|COM
+1 Sporeback Troll|DIS
+1 Sturdy Hatchling|EVE
+1 Teferi, Mage of Zhalfir|FVL
+1 Terramorphic Expanse|MMA
+1 Thornling|CFX
+1 Triskelion|M11
+1 Ulvenwald Tracker|AVR
+1 Vigean Graftmage|DIS
+1 Vorel of the Hull Clade|DGM
+1 Whispersilk Cloak|PC2
+[Sideboard]
+1 Aquastrand Spider|COM
+1 Arashi, the Sky Asunder|SOK
+1 Arcanis the Omnipotent|ONS
+1 Arctic Merfolk|PLS
+1 Avenger of Zendikar|WWK
+1 Awakening|STH
+1 Bioshift|GTC
+1 Blatant Thievery|ONS
+1 Blessings of Nature|AVR
+1 Bow of Nylea|THS
+1 Bramblewood Paragon|MOR
+1 Bred for the Hunt|DGM
+1 Burgeoning|STH
+1 Burst of Strength|GTC
+1 Cauldron of Souls|SHM
+1 Chlorophant|ODY
+1 Citanul Druid|ATQ
+1 Clockwork Dragon|MRD
+1 Contagion Engine|SOM
+1 Coral Atoll|VIS
+1 Cosi's Trickster|ZEN
+1 Crowned Ceratok|DDL
+1 Cycle of Life|MIR
+1 Cytoplast Root-Kin|DIS
+1 Deadbridge Goliath|RTR
+1 Death's Presence|RTR
+1 Decree of Savagery|SCG
+1 Descendant of Masumaro|SOK
+1 Dirtcowl Wurm|TMP
+1 Etched Oracle|MMA
+1 Fangren Firstborn|DST
+1 Fatestitcher|ALA
+1 Fathom Mage|GTC
+1 Ferocity|MMQ
+1 Fertilid|COM
+1 Forced Adaptation|GTC
+1 Freyalise's Winds|ICE
+1 Garruk Wildspeaker|COM
+1 Glen Elendra Archmage|MMA
+1 Golgari Grave-Troll|RAV
+1 Gristleback|GPT
+1 Heartstone|PDS
+1 Helium Squirter|DIS
+1 Hindervines|GTC
+1 Hunt the Weak|M14
+1 Increasing Savagery|DKA
+1 Incremental Growth|MMA
+1 Inexorable Tide|SOM
+1 Instill Energy|5ED
+1 Juniper Order Druid|ICE
+1 Ley Druid|3ED
+1 Leyline of Lifeforce|GPT
+1 Locust Swarm|MIR
+1 Lorescale Coatl|ARB
+1 Lotus Vale|WTH
+1 Lunar Avenger|5DN
+1 Magus of the Candelabra|TSP
+1 Magus of the Unseen|5ED
+1 Master Biomancer|GTC
+1 Maze of Ith|V12
+1 Merrow Wavebreakers|SHM
+1 Mighty Emergence|ALA
+1 Minamo, School at Water's Edge|CHK
+1 Mindless Automaton|EXO
+1 Mist Dragon|MIR
+1 Mossbridge Troll|SHM
+1 Mothdust Changeling|MMA
+1 Mutant's Prey|DGM
+1 Mycoloth|PC2
+1 Myr Welder|MBS
+1 Nath's Elite|LRW
+1 Niblis of the Breath|DKA
+1 Novijen Sages|DIS
+1 Nykthos, Shrine to Nyx|THS
+1 Ooze Flux|GTC
+1 Ordeal of Thassa|THS
+1 Overlaid Terrain|NMS
+1 Pentavus|DDF
+1 Petrified Field|ODY
+1 Recurring Insight|ROE
+1 Reins of Power|COM
+1 Renegade Krasis|DGM
+1 Ring of Evos Isle|M13
+1 Ring of Kalonia|M13
+1 Sapphire Drake|GTC
+1 Savage Summoning|M14
+1 Sawtooth Thresher|5DN
+1 Second Wind|FUT
+1 Seeker of Skybreak|TMP
+1 Simic Basilisk|DIS
+1 Simic Charm|GTC
+1 Simic Cluestone|DGM
+1 Simic Fluxmage|GTC
+1 Simic Guildmage|DIS
+1 Simic Initiate|DIS
+1 Simic Keyrune|GTC
+1 Simic Sky Swallower|DIS
+1 Sphinx of Magosi|ROE
+1 Stone-Seeder Hierophant|RAV
+1 Suncrusher|5DN
+1 Teferi's Isle|MIR
+1 Thespian's Stage|GTC
+1 Tideforce Elemental|WWK
+1 Tolaria West|FUT
+1 Touch of Vitae|ICE
+1 Umbral Mantle|SHM
+1 Vedalken Engineer|HOP
+1 Vesuva|V12
+1 Vesuvan Doppelganger|LEA
+1 Vesuvan Shapeshifter|TSP
+1 Voyaging Satyr|THS
+1 Willow Satyr|LEG
+1 Woodfall Primus|MMA
+1 Zameck Guildmage|GTC
